@@ -8,4 +8,4 @@ Two publicaly available datasets
 Lowlight noisy version of both dataset
 
 1: Lowlight noisy Plant Village dataset https://drive.google.com/file/d/1RJDJuHvhguH-MNYIr_HzCU_sa6kHavDH/view?usp=sharing                                                                                                                             
-2: Lowlight noisy Potatp leaf disease dataset  https://drive.google.com/file/d/10lg8mwCY9xspB5jVrZ21TgcCCaC3xh33/view?usp=sharing
+2: Lowlight noisy Potato leaf disease dataset  https://drive.google.com/file/d/10lg8mwCY9xspB5jVrZ21TgcCCaC3xh33/view?usp=sharing
