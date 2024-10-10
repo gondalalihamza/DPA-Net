@@ -2,7 +2,9 @@
 Two publicaly available datasets
 
 
-1: The Plant Village dataset  https://www.kaggle.com/datasets/mohitsingh1804/plantvillage/data
+1: Original Plant Village dataset       https://www.kaggle.com/datasets/mohitsingh1804/plantvillage/data
+   Lowlight noisy Plant Village dataset https://drive.google.com/file/d/1RJDJuHvhguH-MNYIr_HzCU_sa6kHavDH/view?usp=sharing
 
 
-2: The potao leaf disease dataset https://drive.google.com/drive/folders/1FpcQA66pEg0XR8y5uEzWU__REPpqSAPD
+2: Original potato leaf disease dataset https://drive.google.com/drive/folders/1FpcQA66pEg0XR8y5uEzWU__REPpqSAPD
+   Lowlight noisy Potatp leaf disease dataset  https://drive.google.com/file/d/10lg8mwCY9xspB5jVrZ21TgcCCaC3xh33/view?usp=sharing
