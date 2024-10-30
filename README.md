@@ -12,5 +12,5 @@ Lowlight noisy version of both dataset
 
 
 Flask server files                                                                                                                                                                                                                                      
-1: app.py is main pyhton file for flasker server                                                                                                                                                                                                        
+1: app.py is main pyhton file for flask server                                                                                                                                                                                                        
 2: main.html is html code for web application interface
