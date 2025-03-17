@@ -16,7 +16,7 @@ Flask server files
 2: main.html is html code for web application interface
 
 
-File Name "Real_environment_Images"                                                                                                                                                                                                                                                
+File Name "**Real_environment_Images**"                                                                                                                                                                                                                                                
 These are the images captured at 0 lux illumination.                                                                                                                                                                                                                               
 Three classes from potato crop are considered                                                                                                                                                                                                                                      
 1: Early blight                                                                                                                                                                                                                                                                    
