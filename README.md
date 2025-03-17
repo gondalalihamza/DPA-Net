@@ -14,3 +14,11 @@ Lowlight noisy version of both dataset
 Flask server files                                                                                                                                                                                                                                      
 1: app.py is main pyhton file for flask server                                                                                                                                                                                                        
 2: main.html is html code for web application interface
+
+
+File Name "Real_environment_Images"
+These are the images captured at 0 lux illumination. 
+Three classes from potato crop are considered
+1: Early blight
+2: Late blight
+3: Healthy   
