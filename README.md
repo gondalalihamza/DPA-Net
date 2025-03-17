@@ -19,6 +19,6 @@ Flask server files
 File Name "Real_environment_Images"                                                                                                                                                                                                                                                
 These are the images captured at 0 lux illumination.                                                                                                                                                                                                                               
 Three classes from potato crop are considered                                                                                                                                                                                                                                      
-1: Early blight
-2: Late blight
-3: Healthy   
+1: Early blight                                                                                                                                                                                                                                                                    
+2: Late blight                                                                                                                                                                                                                                                                      
+3: Healthy                                                                                                                                                                                                                                                                           
