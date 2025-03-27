@@ -29,6 +29,15 @@ Flask server files
 2: main.html is html code for web application interface
 
 
+
+
+
+Weight of trained DPA-Net
+https://drive.google.com/file/d/1EYhDyuYjDTBrPmXwhUbV5oCvTSkXbvdM/view?usp=sharing
+
+
+
+
                                                                                                                                                                                                                                         
                                                                                                                                                                                                                              
                                                                                                                                                                                                                                                                     
