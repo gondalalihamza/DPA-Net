@@ -11,7 +11,7 @@
 2: Lowlight noisy Potato leaf disease dataset  https://drive.google.com/file/d/1-nQm8gSIA0fdjQzv8suX0x3SLFJGdjIk/view?usp=sharing
 
 
-**Real low-illumination dataset **                                                                                                                                                                                                                                                     
+**Real low-illumination dataset**                                                                                                                                                                                                                                                     
 https://drive.google.com/file/d/1IaqF2CZjaA0FuRNMOCX4UNgcgVIammZO/view?usp=sharing                                                                                                                                                                                                
 
 
@@ -24,7 +24,7 @@ These are the images captured at 0 lux illumination.
 
 
 
-Flask server files                                                                                                                                                                                                                                      
+**Flask server files**                                                                                                                                                                                                                                      
 1: app.py is main pyhton file for flask server                                                                                                                                                                                                        
 2: main.html is html code for web application interface
 
