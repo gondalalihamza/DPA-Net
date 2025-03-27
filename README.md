@@ -32,8 +32,8 @@ Flask server files
 
 
 
-Weight of trained DPA-Net
-https://drive.google.com/file/d/1EYhDyuYjDTBrPmXwhUbV5oCvTSkXbvdM/view?usp=sharing
+Weight of trained DPA-Net on PlantVillageDataset                                                                                                                                                                                                                                https://drive.google.com/file/d/1EYhDyuYjDTBrPmXwhUbV5oCvTSkXbvdM/view?usp=sharing
+
 
 
 
