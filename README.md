@@ -14,10 +14,7 @@ Lowlight noisy version of both dataset
 Real low-illumination dataset                                                                                                                                                                                                                                                      
 https://drive.google.com/file/d/1IaqF2CZjaA0FuRNMOCX4UNgcgVIammZO/view?usp=sharing                                                                                                                                                                                             These are the images captured at 0 lux illumination.  
 
-Three classes from potato crop are considered                                                                                                                                                                                                                                      
-1: Early blight                                                                                                                                                                                                                                                                   
-2: Late blight                                                                                                                                                                                                                                                                      
-3: Healthy       
+  
 
 
 
