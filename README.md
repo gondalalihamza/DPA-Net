@@ -38,7 +38,9 @@ Weight of trained DPA-Net on PlantVillageDataset
 https://drive.google.com/file/d/1EYhDyuYjDTBrPmXwhUbV5oCvTSkXbvdM/view?usp=sharing
 
 
+Weight of trained DPA-Net on Potato Leaf Disease Dataset
 
+https://drive.google.com/file/d/1c5BjCAXzUceMQzOTuAlMNw2O0UQAPu8-/view?usp=sharing
 
 
                                                                                                                                                                                                                                         
